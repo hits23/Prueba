@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title('Hola Mundo con Streamlit')
-st.write('¡Hola, mundo!')
+st.title('Primera prueba')
+st.write('¡prueba 1°!')
 
